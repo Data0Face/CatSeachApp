@@ -1,0 +1,14 @@
+@font-face{
+    font-family: snubnoose;
+    src:url('./snubnose.otf');
+    
+}
+
+.Font{
+    font-family: snubnoose;
+    text-align: center;
+    font-size: 100px;
+
+}
+
+
